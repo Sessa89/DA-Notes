@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-74fba": {
+      "hosting": {
+        "danotes": [
+          "danotes-74fba"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-74fba"
+  }
+}
